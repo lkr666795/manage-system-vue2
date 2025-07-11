@@ -1,6 +1,5 @@
 <template>
   <div class="left-menu-list">
-  
     <el-menu
       :default-active="currentPath"
       :collapse="isCollapse"
